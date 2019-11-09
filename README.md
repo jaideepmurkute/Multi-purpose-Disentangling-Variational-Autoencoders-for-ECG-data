@@ -1,7 +1,7 @@
 # Multi-purpose-Disentangling-Variational-Autoencoders-for-ECG-data
 **Work In Progress**
 
-**Implementations of 1-D CNN VAE architectures for learning frameworks presented in following papers:**     
+**PyTorch Implementations of 1-D CNN VAE architectures for learning frameworks presented in following papers:**     
 1] Auto-Encoding Variational Bayes,  
    Diederik P. Kingma, Max Welling,  
    https://arxiv.org/pdf/1312.6114.pdf    
@@ -21,3 +21,5 @@
 3] Deterministic classification network  
   
 **Used 1-dimensional convolutional neural network for VAEs.**  
+
+
