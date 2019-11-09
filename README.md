@@ -20,5 +20,4 @@
 2] Conditional Learning (VAE decoder conditioned on learnable class labels)  
 3] Deterministic classification network  
   
-**Used 1-dimensional convolutional neural network for VAEs.
-
+**Used 1-dimensional convolutional neural network for VAEs.**  
