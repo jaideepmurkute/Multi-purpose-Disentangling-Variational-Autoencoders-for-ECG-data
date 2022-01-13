@@ -21,7 +21,7 @@ matplotlib==3.1.1
 moviepy==1.0.1
 numpy==1.17.0
 pandas==0.25.0
-Pillow==6.1.0
+Pillow==9.0.0
 proglog==0.1.9
 protobuf==3.10.0
 pycparser==2.19
