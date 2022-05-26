@@ -38,6 +38,6 @@ tensorboardX==1.9
 torch==0.4.1
 torchvision==0.4.0+cu92
 tqdm==4.36.1
-Twisted==19.7.0
+Twisted==22.4.0
 urllib3==1.25.6
 zope.interface==4.6.0
