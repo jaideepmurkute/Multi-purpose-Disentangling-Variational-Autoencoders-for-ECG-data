@@ -23,7 +23,7 @@ numpy==1.17.0
 pandas==0.25.0
 Pillow==6.1.0
 proglog==0.1.9
-protobuf==3.10.0
+protobuf==3.18.3
 pycparser==2.19
 PyHamcrest==1.9.0
 pyparsing==2.4.2
